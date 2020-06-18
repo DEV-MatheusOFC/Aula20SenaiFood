@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\bin\Debug\netcoreapp3.1\Aula 20 - SenaiFood.exe
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\bin\Debug\netcoreapp3.1\Aula 20 - SenaiFood.deps.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\bin\Debug\netcoreapp3.1\Aula 20 - SenaiFood.runtimeconfig.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\bin\Debug\netcoreapp3.1\Aula 20 - SenaiFood.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\bin\Debug\netcoreapp3.1\Aula 20 - SenaiFood.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\bin\Debug\netcoreapp3.1\Aula 20 - SenaiFood.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\obj\Debug\netcoreapp3.1\Aula 20 - SenaiFood.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\obj\Debug\netcoreapp3.1\Aula 20 - SenaiFood.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\obj\Debug\netcoreapp3.1\Aula 20 - SenaiFood.AssemblyInfo.cs
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\obj\Debug\netcoreapp3.1\Aula 20 - SenaiFood.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\obj\Debug\netcoreapp3.1\Aula 20 - SenaiFood.dll
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\obj\Debug\netcoreapp3.1\Aula 20 - SenaiFood.pdb
+C:\Users\admin\Desktop\Senai - Atividades\Aula 20 - SenaiFood\obj\Debug\netcoreapp3.1\Aula 20 - SenaiFood.genruntimeconfig.cache
